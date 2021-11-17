@@ -1,7 +1,7 @@
 # Unix Shell Script
 AIX shell Scripts for analysing the network status of a client and server.
 
-# Task
+# Task1
 - Append a continious netwok status between a client and Server on the TCP layer to a text file for anaylysis
 - Include the date and time for each status
 
